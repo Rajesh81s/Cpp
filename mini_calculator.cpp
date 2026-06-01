@@ -34,4 +34,5 @@ int main() {
                 cout << "Invalid operator.";
         }
         return 0;
-}
+} 
+//Better version with function later
