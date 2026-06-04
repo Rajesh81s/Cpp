@@ -17,7 +17,6 @@ string longestWord(string text) {
         }
     }
 
-    // Check the last word
     if (currentWord.length() > longestWord.length()) {
         longestWord = currentWord;
     }
